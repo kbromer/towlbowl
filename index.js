@@ -11,9 +11,8 @@ var logfmt = require("logfmt");
 
 // ========== listen for requests ==========
 http.listen(port, function(){
-  console.log('Listening on port ' + port);
+  console.log('Listening really easily on port ' + port);
 });
 
 
 app.use('/', express.static(__dirname + '/'));
-
