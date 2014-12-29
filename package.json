@@ -1,0 +1,24 @@
+{
+  "name": "TowlBowl",
+  "version": "0.0.0",
+  "description": "TowlBowl",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "logfmt": "~1.1.2",
+    "express": "~4.4.4",
+    "pg": "3.x"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kbromer/towlbowl.git"
+  },
+  "bugs": {
+    "url": "https://github.com/kbromer/towlbowl/issues"
+  },
+  "homepage": "https://github.com/kbromer/towlbowl"
+}
